@@ -25,7 +25,7 @@ After setting up the retriever and FAISS, you can run the app to retrieve releva
 
  ### Acknowledgements
 
-OpenAI: This project uses the OpenAI GPT-4 API for generating embeddings and powering the language model. Thank you to OpenAI for providing access to their API.
+OpenAI: This project uses the OpenAI GPT-4 API (paid version)for generating embeddings and powering the language model. Thank you to OpenAI for providing access to their API.
 
 LangChain: A big thanks to the LangChain team for providing an excellent framework for building LLM-powered applications and for enabling API tracking and tracing.
 
