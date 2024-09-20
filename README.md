@@ -1,3 +1,4 @@
+ 
 # Simple Generative AI App with Document Retrieval
 
 
@@ -19,5 +20,14 @@ This project demonstrates the creation of a simple generative AI application tha
 5)Retriever: Queries the vector database for relevant documents based on a user question.
 
 
-## Running the App
-After setting up the retriever and FAISS, you can run the app to retrieve relevant information from the webpage content.
+### Running the App
+After setting up the retriever and FAISS, you can run the app to retrieve relevant information from the webpage content. 
+
+ ### Acknowledgements
+
+OpenAI: This project uses the OpenAI GPT-4 API for generating embeddings and powering the language model. Thank you to OpenAI for providing access to their API.
+
+LangChain: A big thanks to the LangChain team for providing an excellent framework for building LLM-powered applications and for enabling API tracking and tracing.
+
+FAISS: Special thanks to the FAISS library for providing fast and efficient similarity search capabilities for the vector da
+
